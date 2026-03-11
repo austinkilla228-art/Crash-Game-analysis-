@@ -1,6 +1,4 @@
-# Crash-Game-analysis-
-Small analysis of bc.games crashgame 
-
+# Crash-Game-analysis of bcgames-
 ---
 
 ## 📊 **Анализ распределения коэффициентов в игре Crash**
